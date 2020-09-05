@@ -1,7 +1,7 @@
-Ruby code size
-* forest-rb
-    1784
-* lamb-rb
-    1641
-* groundcover-rb
-     520
+Code sizes
+* Ruby
+    3945
+* Forest
+    1225
+* Groundcover
+    1599
