@@ -2,6 +2,8 @@
 
 This repository is used for scripts that help in development of Forest programming language. The meaning of that changes quite often currently. For example I run the tests for all forest-related projects in here. I also keep here tests that are environment-related (they depend on environment variables and require forest command to be installed in the system).
 
+For more info about Forest, check out https://github.com/netizer/forest-rb
+
 If you'd like to participate in the development of Forest programming language, the easiest way to do that is to follow this list:
 
 1. Create a directory for all forest-related projects, e.g. "forest".
