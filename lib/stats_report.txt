@@ -1,6 +1,6 @@
 Code sizes
 * Ruby
-    3750
+    3808
 * Forest
     1219
 * Groundcover
